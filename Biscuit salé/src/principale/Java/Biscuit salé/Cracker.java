@@ -1,21 +1,12 @@
 
 
-
-
-
-
-
-
-
-
-
- * 
- * 
+ * ghazy71@hotmail.fr 
+ * sidibelghazi 
  * 
  * Trouve le mot de passe d'une archive .zip ou .rar
  */
 
-package Cracker;
+package Cracker;63a9a5444764ac6a089c317c2ede8ca39b8d6957
 
 import java.io.IOException;
 
